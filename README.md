@@ -1,4 +1,4 @@
-# Datatables with editor inline example
+# Data Tables with inline-editor example
 
 Clone project and run project.
 

@@ -37,7 +37,7 @@ $(document).ready(() => {
     if (action === "edit") {
       alert(`Bạn vừa edit thành công row có id là ${data.DT_RowId}`);
     }
-    // do something what you want...
+    // Do something whatever you want...
   });
 
   $('#table-example').DataTable( {
